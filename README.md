@@ -1,3 +1,3 @@
-## Write brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+## This is an assignment from the Odin Project to create a basic recipe site. This project demonstrates use of git along with basic html concepts of stylization (bold and italics for now) linking, images, headers, and lists.
 
 
